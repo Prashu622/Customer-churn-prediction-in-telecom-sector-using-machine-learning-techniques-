@@ -34,5 +34,9 @@ Decision Tree	71.1%	0.46	0.57	0.51
 Hyperparameter Tuning: Use GridSearchCV to optimize XGBoost parameters.
 Feature Engineering: Create behavioral features like MonthlyCharges_to_Tenure ratio.
 Ensemble Learning: Implement a VotingClassifier to combine the strengths of RF, XGB, and SVM.
+
+
+
+
 Author: Prashant Maurya
 Dataset Source: Telco Customer Churn (Kaggle)
